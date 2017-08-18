@@ -1,2 +1,2 @@
 # Medoo-Cache
-medoo with redis cache
+[medoo](https://github.com/catfan/Medoo) with redis cache
